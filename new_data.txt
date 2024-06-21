@@ -1,0 +1,690 @@
+             Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning     https://arxiv.org/abs/2403.08484
+                                                      Behavioral transition of a fish school in a crowded environment     https://arxiv.org/abs/2402.03123
+           Framework for Variable-lag Motif Following Relation Inference In Time Series using Matrix Profile analysis     https://arxiv.org/abs/2401.02860
+                                                         Investigating the classical problem of pursuit, in two modes     https://arxiv.org/abs/2309.02471
+                                                         Quantifying the biomimicry gap in biohybrid robot-fish pairs     https://arxiv.org/abs/2308.08978
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                      Behavioral transition of a fish school in a crowded environment     https://arxiv.org/abs/2402.03123
+           Framework for Variable-lag Motif Following Relation Inference In Time Series using Matrix Profile analysis     https://arxiv.org/abs/2401.02860
+                                                         Investigating the classical problem of pursuit, in two modes     https://arxiv.org/abs/2309.02471
+                                                         Quantifying the biomimicry gap in biohybrid robot-fish pairs     https://arxiv.org/abs/2308.08978
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+           Framework for Variable-lag Motif Following Relation Inference In Time Series using Matrix Profile analysis     https://arxiv.org/abs/2401.02860
+                                                         Investigating the classical problem of pursuit, in two modes     https://arxiv.org/abs/2309.02471
+                                                         Quantifying the biomimicry gap in biohybrid robot-fish pairs     https://arxiv.org/abs/2308.08978
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                         Investigating the classical problem of pursuit, in two modes     https://arxiv.org/abs/2309.02471
+                                                         Quantifying the biomimicry gap in biohybrid robot-fish pairs     https://arxiv.org/abs/2308.08978
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                         Quantifying the biomimicry gap in biohybrid robot-fish pairs     https://arxiv.org/abs/2308.08978
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                  SAR Ship Target Recognition via Selective Feature Discrimination and Multifeature Center Classifier     https://arxiv.org/abs/2308.10250
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                   Vortex phase matching of a self-propelled model of fish with autonomous fin motion     https://arxiv.org/abs/2304.02935
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                       Predicting the long-term collective behaviour of fish pairs with deep learning     https://arxiv.org/abs/2302.06839
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                                  CREPES: Cooperative RElative Pose Estimation System     https://arxiv.org/abs/2302.01036
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                           A contrastive learning approach for individual re-identification in a wild fish population     https://arxiv.org/abs/2301.00596
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                    A hybrid motion estimation technique for fisheye video sequences based on equisolid re-projection     https://arxiv.org/abs/2211.16995
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                      ViSE: Vision-Based 3D Online Shape Estimation of Continuously Deformable Robots     https://arxiv.org/abs/2211.05222
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                       Detection of Anticipatory Dynamics Between a Pair of Zebrafish     https://arxiv.org/abs/2112.10994
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                        More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods     https://arxiv.org/abs/2106.00055
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                    Liquid films falling down a vertical fiber: modeling, simulations and experiments     https://arxiv.org/abs/2104.05761
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                  Fish Growth Trajectory Tracking via Reinforcement Learning in Precision Aquaculture     https://arxiv.org/abs/2103.07251
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                    Lower bounds on the Erdős-Gyárfás problem via color energy graphs     https://arxiv.org/abs/2102.11466
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+     Two-dimensionally stable self-organization arises in simple schooling swimmers through hydrodynamic interactions     https://arxiv.org/abs/2102.03571
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                                                     Modes of Information Flow in Collective Cohesion     https://arxiv.org/abs/2012.00293
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
+                                 School cohesion, speed, and efficiency are modulated by the swimmers flapping motion     https://arxiv.org/abs/2009.12715
+                                                Identifying partners at sea on contrasting fisheries around the world     https://arxiv.org/abs/2009.02601
+Persistent meanders and eddies lead to a quasi-steady Lagrangian transport pattern in a weak western boundary current     https://arxiv.org/abs/2008.07620
+                                            Calculating Pose with Vanishing Points of Visual-Sphere Perspective Model     https://arxiv.org/abs/2004.08933
+                                       UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing     https://arxiv.org/abs/1912.10269
+                                                               Orienting Ordered Scaffolds: Complexity and Algorithms     https://arxiv.org/abs/1911.11190
+                                                            Automatic Weight Estimation of Harvested Fish from Images     https://arxiv.org/abs/1909.02710
+        Conformational Heterogeneity in Human Interphase Chromosome Organization Reconciles the FISH and Hi-C Paradox     https://arxiv.org/abs/1904.09485
+                        CNN based dense underwater 3D scene reconstruction by transfer learning using bubble database     https://arxiv.org/abs/1811.09675
+                             Multi-scale CNN stereo and pattern removal technique for underwater active stereo system     https://arxiv.org/abs/1808.08348
+                                              Quantum Optics in Maxwell's Fish Eye Lens with Single Atoms and Photons     https://arxiv.org/abs/1805.11739
+                                               A mathematical model for gene evolution after whole genome duplication     https://arxiv.org/abs/1702.06255
+                                                    A draft genome assembly of southern bluefin tuna Thunnus maccoyii     https://arxiv.org/abs/1607.03955
+                       Optimal undulating swimming for a single fish-like body and for a pair of interacting swimmers     https://arxiv.org/abs/1604.01065
+Generalized Statistical Tests for mRNA and Protein Subcellular Spatial Patterning against Complete Spatial Randomness     https://arxiv.org/abs/1602.06429
+                      Identifying differences in the rules of interaction between individuals in moving animal groups     https://arxiv.org/abs/1601.08202
+                                                                       Dipole interactions in doubly-periodic domains      https://arxiv.org/abs/1304.6795
+                                                                   The parameters of Menzerath-Altmann law in genomes      https://arxiv.org/abs/1201.1746
+                                                                   Mechanism of magnetic field effect in cryptochrome      https://arxiv.org/abs/1102.5359
+                                                         The Gould-Hopper Polynomials in the Novikov-Veselov equation      https://arxiv.org/abs/1011.1614
+                                                    Nonautonomous Food-Limited Fishery Model With Adaptive Harvesting      https://arxiv.org/abs/1006.5431
+                                                 Hydrodynamics of undulatory fish schooling in lateral configurations      https://arxiv.org/abs/1003.4441
+                                                     On the fish-like swimming of linked bodies with and without skin      https://arxiv.org/abs/0912.4577
+                                                         Computer Simulations to Study Sympatric Speciation Processes  https://arxiv.org/abs/q-bio/0504006
+                                                                    lambda Phi^4 Theory From a Particle-Gas Viewpoint https://arxiv.org/abs/hep-ph/9711449
